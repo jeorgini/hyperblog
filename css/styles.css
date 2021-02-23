@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> headboard
 text-align: center;
 font-family: Arial;
 font-size: 16px;
