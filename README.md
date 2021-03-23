@@ -4,6 +4,11 @@ Hello I&#x27;m [jeorgini](http://instagram.com/jeorgini "jeorgini").
 This is my practice blog for the **Git and GitHub Platzi Course**
 
 Created by NiNe productions
+<<<<<<< HEAD
+=======
+Include examples in windows linux and mac
+Available to all the ages
+>>>>>>> readme-improved
 
 **▼ This is me learing Web Develop ▼**
 
