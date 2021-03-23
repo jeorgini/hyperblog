@@ -5,6 +5,7 @@ This is my practice blog for the **Git and GitHub Platzi Course**
 
 Created by NiNe productions
 Include examples in windows linux and mac
+Available to all the ages
 
 **▼ This is me learing Web Develop ▼**
 
